@@ -1,2 +1,2 @@
 # Student-System-Website
-![Video Demo](DEM_demo.mp4)
+![Video Demo](DEM_demo.gif)
